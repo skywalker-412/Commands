@@ -1,1 +1,3 @@
-
+uname -m Check the architecture
+uname -r Check the Linux kernel version
+cat /etc/os-release or lsb_release -a Check the distribution version
