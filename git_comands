@@ -1,0 +1,6 @@
+git branch -D <branch-name> for deleting the local branch
+git push origin --delete <branch-name> for deleting the remote branch
+git checkout -b <branch-name> for creating new branch and moving into it
+git tag -a <tag-name> -m "commit message" for creating a tag with description
+git tag -d <tag-name> for deleting tag
+git push origin <tag-name> for pushing the changes to tag
